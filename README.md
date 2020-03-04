@@ -1,2 +1,62 @@
-# curriculum_vitae
-Personal website
+# PIERRE LEGRAND
+### Analyste Programmeur · Alternance · pierrelegrand.pro@gmail.com 
+
+Actuellement développeur, je souhaite poursuivre mes études en alternance pour 1 an, afin d'obtenir le diplôme de Responsable en Ingénierie des Logiciels au CESI Lille.
+
+## Experiences
+
+### Développeur
+#### Kapia-RGI
+Décembre 2018 - Maintenant
+Progiciel de gestion d'assurance vie. Migration vers le JSON des retours SOA en PL/SQL, webservices Java, découverte d'AngularJS, mise en place de tests automatisés via Codeception.
+
+### Technicien de maintenance informatique
+#### IX-Technologies
+Juin 2015 - Mars 2018
+Missions journalières de maintenance informatique. Mise en place de postes de travail, installation de baies informatiques, dépannages sur sites.
+
+### Conseiller client
+#### Arvato service France
+Janvier 2014 - Novembre 2014
+Prise en charge d'appels téléphoniques, réponses à la demande, fidélisation et ventes additionnelles.
+
+### Technicien helpdesk
+#### Téléperformance France
+Août 2012 - Août 2013 
+Prise en charge d'appels téléphoniques, réponses à la demande, diagnostiques, gestion d'hébergements, désinfections de postes, prises en main à distance et aide à l'utilisation.
+
+
+## Formations
+### CESI Lille
+#### Responsable en Ingénierie des Logiciels
+Bachelor en Alternance
+Octobre 2020 - Juin 2020
+
+### CESI Lille
+#### Analyste Programmeur
+Bac+2 en Alternance
+Octobre 2018 - Juin 2020
+
+
+## Compétences
+### Langages de programmation & Outils
+* Oracle
+* Java
+* Python
+* Jenkins
+* Angular
+* Github
+* Gitlab
+* Jira
+* Confluence
+### Aptitudes
+* Travail d'équipe & Autonomie
+* Documentation technique & fonctionnelle
+* Veille technologique
+* Développement Agile & Scrum
+
+## Intérêts
+* Lecture fantastique & science fiction
+* Cinéma
+* Arts martiaux
+* Randonnées
