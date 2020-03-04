@@ -1,6 +1,8 @@
 # PIERRE LEGRAND
 ### Analyste Programmeur · Alternance · pierrelegrand.pro@gmail.com 
 
+[![alt text](https://badgen.net/badge/in/PierreL/blue)](https://www.linkedin.com/in/pierre-l-5a9551162) [![alt text](https://badgen.net/badge/icon/Illenhad?icon=github&label)](https://github.com/Illenhad) [![alt text](https://badgen.net/badge/icon/Illenhad?icon=gitlab&label)](https://gitlab.com/Illenhad) [![alt text](https://badgen.net/badge/icon/Illenhad?icon=twitter&label)](https://twitter.com/PierreLpro)
+
 Actuellement développeur, je souhaite poursuivre mes études en alternance pour 1 an, afin d'obtenir le diplôme de Responsable en Ingénierie des Logiciels au CESI Lille.
 
 ## Experiences
