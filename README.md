@@ -9,36 +9,35 @@ Actuellement développeur, je souhaite poursuivre mes études en alternance pour
 
 ### Développeur
 #### Kapia-RGI
-Décembre 2018 - Maintenant
+*Décembre 2018 - Maintenant* <br/>
 Progiciel de gestion d'assurance vie. Migration vers le JSON des retours SOA en PL/SQL, webservices Java, découverte d'AngularJS, mise en place de tests automatisés via Codeception.
 
 ### Technicien de maintenance informatique
 #### IX-Technologies
-Juin 2015 - Mars 2018
+*Juin 2015 - Mars 2018* <br/>
 Missions journalières de maintenance informatique. Mise en place de postes de travail, installation de baies informatiques, dépannages sur sites.
 
 ### Conseiller client
 #### Arvato service France
-Janvier 2014 - Novembre 2014
+*Janvier 2014 - Novembre 2014* <br/>
 Prise en charge d'appels téléphoniques, réponses à la demande, fidélisation et ventes additionnelles.
 
 ### Technicien helpdesk
 #### Téléperformance France
-Août 2012 - Août 2013 
+*Août 2012 - Août 2013* <br/>
 Prise en charge d'appels téléphoniques, réponses à la demande, diagnostiques, gestion d'hébergements, désinfections de postes, prises en main à distance et aide à l'utilisation.
 
 
 ## Formations
 ### CESI Lille
 #### Responsable en Ingénierie des Logiciels
+*Octobre 2020 - Juin 2020* <br/>
 Bachelor en Alternance
-Octobre 2020 - Juin 2020
 
 ### CESI Lille
 #### Analyste Programmeur
+*Octobre 2018 - Juin 2020* <br/>
 Bac+2 en Alternance
-Octobre 2018 - Juin 2020
-
 
 ## Compétences
 ### Langages de programmation & Outils
