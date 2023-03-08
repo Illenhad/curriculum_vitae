@@ -11,6 +11,7 @@ Actuellement développeur, j'effectue mes études en alternance afin d'obtenir l
 #### Luminess
 *Octobre 2020 - Maintenant* <br/>
 Progiciel de gestion d'assurance vie. Migration vers le JSON des retours SOA en PL/SQL, webservices Java, découverte d'AngularJS, mise en place de tests automatisés via Codeception.
+
 #### Kapia-RGI
 *Décembre 2018 - Juin 2020* <br/>
 Progiciel de gestion d'assurance vie. Migration vers le JSON des retours SOA en PL/SQL, webservices Java, découverte d'AngularJS, mise en place de tests automatisés via Codeception.
@@ -33,11 +34,14 @@ Prise en charge d'appels téléphoniques, réponses à la demande, diagnostiques
 
 ## Formations
 ### CESI Lille
+#### Manager des Sytèmes d'Information - Option expert en développement
+*Octobre 2021 - Octobre 2023* <br/>
+Master en Alternance
+
 #### Responsable en Ingénierie des Logiciels
 *Octobre 2020 - Juin 2020* <br/>
 Bachelor en Alternance
 
-### CESI Lille
 #### Analyste Programmeur
 *Octobre 2018 - Juin 2020* <br/>
 Bac+2 en Alternance
